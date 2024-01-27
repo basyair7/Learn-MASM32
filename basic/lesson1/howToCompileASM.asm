@@ -4,5 +4,5 @@
 ; 4. paste code .asm in newfolder
 ; 5. run on cmd : 
 ; > ml /c /Zd /coff "namefile.asm"
-; > link /SUBSYSTEM:CONSOLE "namefile.obj"
+; > link /SUBSYSTEM:CONSOLE "namefile.obj" or > link /SUBSYSTEM:WINDOWS "namefile.obj"
 ; > namefile
